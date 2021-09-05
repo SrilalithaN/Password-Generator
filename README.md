@@ -12,9 +12,9 @@
 
 ## SCREENSHOTS
 
-The following is the image of appearance of the Password-generator website ![Password-Generator](./screenshots\screenshot_1.png)
-![](screenshots\screenshot_2.png)
-![](screenshots\screenshot_3.png)
+The following is the image of appearance of the Password-generator website ![Password-Generator](./screenshots/screenshot_1.png)
+![](./screenshots/screenshot_2.png)
+![](./screenshots/screenshot_3.png)
 
 ## ASSETS
 
